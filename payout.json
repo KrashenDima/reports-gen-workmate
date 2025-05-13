@@ -1,0 +1,95 @@
+{
+    "departments": [
+        {
+            "name": "Marketing",
+            "employees": [
+                {
+                    "name": "Alice Johnson",
+                    "department": "Marketing",
+                    "hours_worked": 160,
+                    "rate": 50,
+                    "payout": 8000
+                },
+                {
+                    "name": "Henry Martin",
+                    "department": "Marketing",
+                    "hours_worked": 150,
+                    "rate": 35,
+                    "payout": 5250
+                }
+            ],
+            "total_hours": 310,
+            "total_payout": 13250
+        },
+        {
+            "name": "HR",
+            "employees": [
+                {
+                    "name": "Grace Lee",
+                    "department": "HR",
+                    "hours_worked": 160,
+                    "rate": 45,
+                    "payout": 7200
+                },
+                {
+                    "name": "Ivy Clark",
+                    "department": "HR",
+                    "hours_worked": 158,
+                    "rate": 38,
+                    "payout": 6004
+                },
+                {
+                    "name": "Liam Harris",
+                    "department": "HR",
+                    "hours_worked": 155,
+                    "rate": 42,
+                    "payout": 6510
+                }
+            ],
+            "total_hours": 473,
+            "total_payout": 19714
+        },
+        {
+            "name": "Design",
+            "employees": [
+                {
+                    "name": "Bob Smith",
+                    "department": "Design",
+                    "hours_worked": 150,
+                    "rate": 40,
+                    "payout": 6000
+                },
+                {
+                    "name": "Carol Williams",
+                    "department": "Design",
+                    "hours_worked": 170,
+                    "rate": 60,
+                    "payout": 10200
+                }
+            ],
+            "total_hours": 320,
+            "total_payout": 16200
+        },
+        {
+            "name": "Sales",
+            "employees": [
+                {
+                    "name": "Karen White",
+                    "department": "Sales",
+                    "hours_worked": 165,
+                    "rate": 50,
+                    "payout": 8250
+                },
+                {
+                    "name": "Mia Young",
+                    "department": "Sales",
+                    "hours_worked": 160,
+                    "rate": 37,
+                    "payout": 5920
+                }
+            ],
+            "total_hours": 325,
+            "total_payout": 14170
+        }
+    ]
+}
